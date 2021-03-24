@@ -1,0 +1,26 @@
+.img-item {
+  position: relative;
+  float: left;
+}
+
+.icon {
+  width: 14px;
+  height: 14px;
+  border: 1px solid #ccc;
+  position: absolute;
+  left: 4px;
+  top: 4px;
+  background-color: #fff;
+  border-radius: 2px;
+}
+
+.check {
+  width: 14px;
+  height: 14px;
+  border: 1px solid #ccc;
+  position: absolute;
+  left: 4px;
+  top: 4px;
+  background-color: #000;
+  border-radius: 2px;
+}
